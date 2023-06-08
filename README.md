@@ -22,5 +22,5 @@
     c. Add submit and reset buttons
     d. Add border to the form
 
- (Solution is in folder GmailAccountCreation) 
+ (Solution is in folder GmailForm) 
    
